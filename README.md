@@ -1,5 +1,23 @@
 # 🚀 Basler + TensorRT Road Anomaly Detection Pipeline
 
+
+## 🎬 Demo (Live Output)
+
+### 🎥 GIF Preview
+![Demo GIF](gif/output.gif)
+
+---
+
+### 📸 Detection Samples
+
+| Anomaly | Preview |
+|--------|--------|
+| Laptop | ![](images/anomaly_0039_laptop_frame001027_1773745495.jpg) |
+| Person | ![](images/anomaly_0043_person_frame001136_1773745499.jpg) |
+| Clock | ![](images/anomaly_0047_clock_frame001199_1773745501.jpg) |
+| Person | ![](images/anomaly_0056_person_frame001346_1773745506.jpg) |
+
+
 ## 📌 Overview
 
 This project implements a **real-time road anomaly detection system** using:
